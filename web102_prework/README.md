@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src="https://github.com/minh-dnguyen/sea-monster-crowdfunding/blob/main/Walkthrough.gif" controls="controls" style="max-width: 600px;">
-</video>
+![Walkthrough](https://github.com/user-attachments/assets/c167a77a-0f41-43ef-ad03-420a4b83c820)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 
